@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\bin\Debug\net8.0\Laboratory2.exe
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\bin\Debug\net8.0\Laboratory2.deps.json
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\bin\Debug\net8.0\Laboratory2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\bin\Debug\net8.0\Laboratory2.dll
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\bin\Debug\net8.0\Laboratory2.pdb
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.dll
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\refint\Laboratory2.dll
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.pdb
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\Laboratory2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Laboratory2\Laboratory2\obj\Debug\net8.0\ref\Laboratory2.dll
